@@ -1,0 +1,54 @@
+.header{
+    margin:40px;
+    text-align: center;
+}
+.header__heading{
+    margin-bottom: 0px;
+}
+.header p{
+    font-style: italic;
+}
+.section{
+    display: flex;
+}
+.section__divLeft{
+    padding:40px 100px;
+    width: 150px;
+    float:left;
+}
+.section__divRight{
+    padding:40px 550px;
+    width: 800px;
+    float:right;
+}
+.section__form div{
+    display:flex;
+}
+.input{
+    height:30px;
+    margin-right:10px;
+}
+.inputMsg{
+    height: 30px;
+    margin-top:10px;
+    width: 375px;
+}
+.section__btn{
+    margin:15px;
+    height:30px;
+    background-color: black;
+    color:white;
+    margin-left:328px;
+}
+.tdiv{
+    padding-left:200px;
+}
+.tdiv__table{
+    width:100%;
+    font-size:1.1em;
+    border:30px;
+}
+.tdiv__tr{
+    margin:20px;
+}
+
